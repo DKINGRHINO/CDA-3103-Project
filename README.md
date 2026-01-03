@@ -68,3 +68,9 @@ Sample `.asc` files can be created manually with hexadecimal MIPS machine code (
 ## License / Usage Note
 
 This code was developed as part of coursework at the University of Central Florida. It is shared publicly for portfolio purposes and to demonstrate understanding of computer architecture concepts. Feel free to view and learn from it, but please do not use it to complete active assignments in CDA 3103 or similar courses.
+
+---
+
+**Christopher Otto**  
+Computer Science B.S. Candidate, Class of 2027  
+University of Central Florida
